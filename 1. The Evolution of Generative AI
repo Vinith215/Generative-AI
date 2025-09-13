@@ -1,0 +1,15 @@
+The Evolution of Generative AI – From Transformers to Diffusion Models
+
+Transformer | LLM | ChatGPT Training | Diffusion Model
+
+The journey of Generative AI has been remarkable. It all began with Transformer architecture, which introduced self-attention and parallel training, enabling models to scale efficiently far beyond RNNs and LSTMs. This breakthrough laid the foundation for Large Language Models (LLMs) like GPT, which learn from massive text corpora through self-supervised pretraining.
+
+What makes today’s models truly powerful is alignment. After pretraining, models are fine-tuned with curated instruction data and optimized using techniques like Reinforcement Learning with Human Feedback (RLHF). This is how ChatGPT and similar systems evolved into conversational, safe, and useful assistants.
+
+Meanwhile, in the vision space, Diffusion Models have redefined generative media. Instead of direct generation like GANs, they gradually transform noise into coherent outputs, guided by conditioning such as text prompts. This innovation powers high-fidelity text-to-image and even text-to-video applications we see today.
+
+The convergence is clear: Transformers dominate language, diffusion dominates imagery, and multimodal AI is bringing them together for unified text, vision, and audio generation.
+
+But challenges remain ethical data use, evaluation beyond benchmarks, model transparency, and preventing “model collapse” from overtraining on synthetic data. Addressing these will shape the next era of Generative AI.
+
+✨ From “Attention Is All You Need” to ChatGPT and Stable Diffusion, this journey shows how rapidly AI is moving toward creativity, reasoning, and multimodal intelligence.
