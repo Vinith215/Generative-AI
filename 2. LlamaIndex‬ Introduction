@@ -1,0 +1,16 @@
+🔍 Introduction to LlamaIndex 
+
+One of the most exciting frontiers in Generative AI today is LlamaIndex is quickly becoming a go-to framework for building these systems.
+
+Traditional LLMs are powerful, but they struggle with factual accuracy, up-to-date knowledge, and context-specific answers. RAG solves this by connecting LLMs with external knowledge sources (databases, APIs, PDFs, or even enterprise documents).
+
+👉 Where LlamaIndex fits in:
+
+•	Provides a structured way to ingest and index data from multiple sources.
+•	Build retrieval pipelines so LLMs can query external knowledge efficiently.
+•	Supports document loaders, embeddings, and vector stores, making it easy to connect your data with models like GPT or LLaMA.
+•	Enables developers to create custom RAG workflows that improve accuracy, transparency, and trustworthiness.
+
+The walkthrough highlights how developers can use LlamaIndex to load, index, query, and evaluate documents—bridging the gap between static LLMs and dynamic, data-aware applications.
+
+✨ With frameworks like this, we’re moving from LLMs as “general chatbots” to domain-expert copilots—grounded in enterprise knowledge, always up-to-date, and far more reliable.
