@@ -1,1 +1,66 @@
+Getting Started with Google Gemini – Part 1 (Python API)
+Gemini is a chatbot like ChatGPT
+ChatGPT is based on gpt 4.5 and its variants.
+Gemini is based on Gemini Pro & Gemini Pro Vision
+
+Gemini is a family of Multimodel large language models developed by Google Deep Mind.
+
+History of Gemini:
+Gemini is a Successor of LAMDA and PALM
+LAMDA – Language Model for Dialogue Application (released for conversation)
+PALM – Pathway Language Model
+
+LAMDA:
+1.	Developed and introduced in 2020
+2.	First generation LAMDA announced during 2021 google I/O keynote
+3.	Second generation was announced in June 2022
+4.	Model size range was from 2B to 137B parameter
+5.	It was trained on 1.56T words from public dialogue Data & Web document
+6.	LAMDA was a family of conversational large language models by google.
+
+PALM:
+1.	First introduced in April 2022 and remained private until Feb 2023
+2.	Google launched API of PALM in Feb 2023
+3.	PALM 540B called Med PALM that is finetuned on medical data and outperforms previous models on medical QA Benchmark
+4.	Extended for vision PALM-E state of art vision language model
+5.	May 2023 PALM-2 Announced
+6.	PALM-2 340B parameter trained on 3.6T Tokens
+7.	June 2023 google announced audio PALM
+Gemini: On 6th December 2023, Gemini becomes the largest and most capable AI Model.
+Multimodel: Can understand Image, Audio, Video and Generate Text
+
+3 Variants of Gemini:
+•	Gemini Nano
+•	Gemini Pro & Gemini Pro Vision
+•	Gemini ULTRA
+
+Gemini Nano (Designed for Smart Phones)
+1.	Smallest Member of family
+2.	Executable on android device such as Pixel 8 pro & Samsung 24
+3.	Two variants of nano (Nano-1: 1.8B params) (Nano-2: 3.25B Params)
+Gemini Pro & Gemini Pro Vision
+1.	Fundamental backbone of Bard or Gemini
+2.	Using for web
+Features of Gemini pro & Pro vision
+1.	Code Generation (Text to Code)
+2.	API Integration (Google AI Studio & Vertex AI)
+3.	Multilanguage  understanding
+4.	Scalable – Handle large complex dataset on google infrastructure
+5.	Market research & Analysis
+6.	Creative Writing and Story telling
+
+Why should we use Gemini Pro
+1.	Increased Productivity
+2.	Reduce Development Cost
+3.	Enhanced Creativity
+4.	Streamlined Workflow
+
+Gemini ULTRA: 
+1.	Future of AI
+2.	AGI (Artificial General Intelligence)
+3.	Designed for Complex intricate task with unparallel efficiency
+4.	Superhuman capability
+5.	Adaptive Learning
+
+Google Gemini represents a major leap in multimodal AI (text, image, and beyond). Learning how to use its Python API opens up opportunities to build smarter, more intuitive applications, whether in data analytics, automation, or AI-driven products.
 
