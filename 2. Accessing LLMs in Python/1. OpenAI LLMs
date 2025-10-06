@@ -1,1 +1,13 @@
+large language models (LLMs) in Python, specifically through proprietary APIs like OpenAI and Gemini, as well as using open-source models via tools such as Grok and Olama. Here are the main points covered:
+
+1.	Setting Up the Environment: This begins with instructions for installing the OpenAI library using pip and connecting it to Google Collaboratory, with mentions of alternatives like Jupyter Notebook and IDEs such as PyCharm and VS Code. Properly naming the API key in environment variables is emphasized for successful API calls.
+2.	Making API Calls: Demonstrates how to create a client for the OpenAI API and make requests to the models (e.g., GPT-4 and GPT-5). Examples illustrate generating text responses, such as creating a bedtime story or answering machine learning-related questions.
+3.	Chat Completion: The concept of chat-based interactions is introduced, detailing how to maintain chat history for context in follow-up questions. The structure of messages sent to the model is explained, including the roles of system, user, and assistant.
+4.	Cost Management: Viewers are guided on monitoring usage and costs associated with API calls, especially when working with larger models that may incur significant charges.
+5.	Local vs. Cloud Models: The session concludes with a discussion on the trade-offs between cloud-based models (like OpenAI's) and local open-source models, with a focus on data privacy concerns for sensitive information.
+
+
+
+
+
 
