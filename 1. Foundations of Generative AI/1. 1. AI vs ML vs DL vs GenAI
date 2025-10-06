@@ -1,1 +1,9 @@
+Overview of the distinctions between artificial intelligence (AI), machine learning (ML), deep learning (DL), and generative AI (GenAI).
+
+1.	Artificial Intelligence (AI): The broadest category, encompassing systems like voice assistants and chess programs that mimic human-like intelligence.
+2.	Machine Learning (ML): A subset of AI that allows machines to learn from data and make predictions without fixed programming. Examples include spam filters and recommendation systems (e.g., Netflix).
+3.	Deep Learning (DL): A specialized form of ML that utilizes neural networks with multiple layers, enabling advanced capabilities such as image recognition and speech-to-text conversion. It emphasizes the use of neural networks compared to various ML models.
+4.	Generative AI (GenAI): A subset of DL that focuses on creating new content like text, images, and music, as opposed to prediction and classification. Examples include ChatGPT, GitHub Copilot, and Dall-E.
+
+In summary, AI encompasses ML, which includes DL, and GenAI sits within DL.
 
