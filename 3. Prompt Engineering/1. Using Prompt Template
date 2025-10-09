@@ -1,1 +1,6 @@
+Prompt Engineering:
+Prompt engineering is the process of crafting effective instructions or “prompts” to guide large language models (LLMs) and other generative AI models towards producing desired outputs. It’s the art and science of designing prompts that help AI understand your intent and generate relevant, high-quality responses.
+
+Prompt Template
+Prompt templates help to translate user input and parameters into instructions for a language model. This can be used to guide a model’s response, helping it understand the context and generate relevant and coherent language-based output. 
 
